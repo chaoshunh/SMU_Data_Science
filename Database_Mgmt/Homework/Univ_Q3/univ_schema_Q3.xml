@@ -1,0 +1,1063 @@
+<?xml version="1.0"?>
+<UNIVERSITY>
+
+	<COURSE>
+		<course_id>BIO-101</course_id>
+		<title>Intro. to Biology</title>
+		<dept_name>Biology</dept_name>
+		<credits>4</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>BIO-301</course_id>
+		<title>Genetics</title>
+		<dept_name>Biology</dept_name>
+		<credits>4</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>BIO-399</course_id>
+		<title>Computational Biology</title>
+		<dept_name>Biology</dept_name>
+		<credits>3</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>CS-101</course_id>
+		<title>Intro. to Computer Science</title>
+		<dept_name>Comp. Sci.</dept_name>
+		<credits>4</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>CS-190</course_id>
+		<title>Game Design</title>
+		<dept_name>Comp. Sci.</dept_name>
+		<credits>4</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>CS-315</course_id>
+		<title>Robotics</title>
+		<dept_name>Comp. Sci.</dept_name>
+		<credits>3</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>CS-319</course_id>
+		<title>Image Processing</title>
+		<dept_name>Comp. Sci.</dept_name>
+		<credits>3</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>CS-347</course_id>
+		<title>Database System Concepts</title>
+		<dept_name>Comp. Sci.</dept_name>
+		<credits>3</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>EE-181</course_id>
+		<title>Intro. to Digital Systems</title>
+		<dept_name>Elec. Eng.</dept_name>
+		<credits>3</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>FIN-201</course_id>
+		<title>Investment Banking</title>
+		<dept_name>Finance</dept_name>
+		<credits>3</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>HIS-351</course_id>
+		<title>World History</title>
+		<dept_name>History</dept_name>
+		<credits>3</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>MU-199</course_id>
+		<title>Music Video Production</title>
+		<dept_name>Music</dept_name>
+		<credits>3</credits>
+	</COURSE>
+
+	<COURSE>
+		<course_id>PHY-101</course_id>
+		<title>Physical Principles</title>
+		<dept_name>Physics</dept_name>
+		<credits>4</credits>
+	</COURSE>
+
+	<ADVISOR>
+		<s_ID>12345</s_ID>
+		<i_ID>10101</i_ID>
+	</ADVISOR>
+
+	<ADVISOR>
+		<s_ID>44553</s_ID>
+		<i_ID>22222</i_ID>
+	</ADVISOR>
+
+	<ADVISOR>
+		<s_ID>45678</s_ID>
+		<i_ID>22222</i_ID>
+	</ADVISOR>
+
+	<ADVISOR>
+		<s_ID>00128</s_ID>
+		<i_ID>45565</i_ID>
+	</ADVISOR>
+
+	<ADVISOR>
+		<s_ID>76543</s_ID>
+		<i_ID>45565</i_ID>
+	</ADVISOR>
+
+	<ADVISOR>
+		<s_ID>23121</s_ID>
+		<i_ID>76543</i_ID>
+	</ADVISOR>
+
+	<ADVISOR>
+		<s_ID>98988</s_ID>
+		<i_ID>76766</i_ID>
+	</ADVISOR>
+
+	<ADVISOR>
+		<s_ID>76653</s_ID>
+		<i_ID>98345</i_ID>
+	</ADVISOR>
+
+	<ADVISOR>
+		<s_ID>98765</s_ID>
+		<i_ID>98345</i_ID>
+	</ADVISOR>
+	
+		<CLASSROOM>
+		<building>Packard</building>
+		<room_number>101</room_number>
+		<capacity>500</capacity>
+	</CLASSROOM>
+
+	<CLASSROOM>
+		<building>Painter</building>
+		<room_number>514</room_number>
+		<capacity>10</capacity>
+	</CLASSROOM>
+
+	<CLASSROOM>
+		<building>Taylor</building>
+		<room_number>3128</room_number>
+		<capacity>70</capacity>
+	</CLASSROOM>
+
+	<CLASSROOM>
+		<building>Watson</building>
+		<room_number>100</room_number>
+		<capacity>30</capacity>
+	</CLASSROOM>
+
+	<CLASSROOM>
+		<building>Watson</building>
+		<room_number>120</room_number>
+		<capacity>50</capacity>
+	</CLASSROOM>
+	
+		<DEPARTMENT>
+		<dept_name>Biology</dept_name>
+		<building>Watson</building>
+		<budget>90000.00</budget>
+	</DEPARTMENT>
+
+	<DEPARTMENT>
+		<dept_name>Comp. Sci.</dept_name>
+		<building>Taylor</building>
+		<budget>100000.00</budget>
+	</DEPARTMENT>
+
+	<DEPARTMENT>
+		<dept_name>Elec. Eng.</dept_name>
+		<building>Taylor</building>
+		<budget>85000.00</budget>
+	</DEPARTMENT>
+
+	<DEPARTMENT>
+		<dept_name>Finance</dept_name>
+		<building>Painter</building>
+		<budget>120000.00</budget>
+	</DEPARTMENT>
+
+	<DEPARTMENT>
+		<dept_name>History</dept_name>
+		<building>Painter</building>
+		<budget>50000.00</budget>
+	</DEPARTMENT>
+
+	<DEPARTMENT>
+		<dept_name>Music</dept_name>
+		<building>Packard</building>
+		<budget>80000.00</budget>
+	</DEPARTMENT>
+
+	<DEPARTMENT>
+		<dept_name>Physics</dept_name>
+		<building>Watson</building>
+		<budget>70000.00</budget>
+	</DEPARTMENT>
+
+	<PREREQ>
+		<course_id>BIO-301</course_id>
+		<prereq_id>BIO-101</prereq_id>
+	</PREREQ>
+
+	<PREREQ>
+		<course_id>BIO-399</course_id>
+		<prereq_id>BIO-101</prereq_id>
+	</PREREQ>
+
+	<PREREQ>
+		<course_id>CS-190</course_id>
+		<prereq_id>CS-101</prereq_id>
+	</PREREQ>
+
+	<PREREQ>
+		<course_id>CS-315</course_id>
+		<prereq_id>CS-101</prereq_id>
+	</PREREQ>
+
+	<PREREQ>
+		<course_id>CS-319</course_id>
+		<prereq_id>CS-101</prereq_id>
+	</PREREQ>
+
+	<PREREQ>
+		<course_id>CS-347</course_id>
+		<prereq_id>CS-101</prereq_id>
+	</PREREQ>
+
+	<PREREQ>
+		<course_id>EE-181</course_id>
+		<prereq_id>PHY-101</prereq_id>
+	</PREREQ>
+	<SECTION>
+		<course_id>BIO-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Summer</semester>
+		<year>2009</year>
+		<building>Painter</building>
+		<room_number>514</room_number>
+		<time_slot_id>B</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>BIO-301</course_id>
+		<sec_id>1</sec_id>
+		<semester>Summer</semester>
+		<year>2010</year>
+		<building>Painter</building>
+		<room_number>514</room_number>
+		<time_slot_id>A</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<building>Packard</building>
+		<room_number>101</room_number>
+		<time_slot_id>H</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<building>Packard</building>
+		<room_number>101</room_number>
+		<time_slot_id>F</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>CS-190</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2009</year>
+		<building>Taylor</building>
+		<room_number>3128</room_number>
+		<time_slot_id>E</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>CS-190</course_id>
+		<sec_id>2</sec_id>
+		<semester>Spring</semester>
+		<year>2009</year>
+		<building>Taylor</building>
+		<room_number>3128</room_number>
+		<time_slot_id>A</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>CS-315</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<building>Watson</building>
+		<room_number>120</room_number>
+		<time_slot_id>D</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>CS-319</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<building>Watson</building>
+		<room_number>100</room_number>
+		<time_slot_id>B</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>CS-319</course_id>
+		<sec_id>2</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<building>Taylor</building>
+		<room_number>3128</room_number>
+		<time_slot_id>C</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>CS-347</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<building>Taylor</building>
+		<room_number>3128</room_number>
+		<time_slot_id>A</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>EE-181</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2009</year>
+		<building>Taylor</building>
+		<room_number>3128</room_number>
+		<time_slot_id>C</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>FIN-201</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<building>Packard</building>
+		<room_number>101</room_number>
+		<time_slot_id>B</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>HIS-351</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<building>Painter</building>
+		<room_number>514</room_number>
+		<time_slot_id>C</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>MU-199</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<building>Packard</building>
+		<room_number>101</room_number>
+		<time_slot_id>D</time_slot_id>
+	</SECTION>
+
+	<SECTION>
+		<course_id>PHY-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<building>Watson</building>
+		<room_number>100</room_number>
+		<time_slot_id>A</time_slot_id>
+	</SECTION>
+	<STUDENT>
+		<ID>00128</ID>
+		<name>Zhang</name>
+		<dept_name>Comp. Sci.</dept_name>
+		<tot_cred>102</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>12345</ID>
+		<name>Shankar</name>
+		<dept_name>Comp. Sci.</dept_name>
+		<tot_cred>32</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>19991</ID>
+		<name>Brandt</name>
+		<dept_name>History</dept_name>
+		<tot_cred>80</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>23121</ID>
+		<name>Chavez</name>
+		<dept_name>Finance</dept_name>
+		<tot_cred>110</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>44553</ID>
+		<name>Peltier</name>
+		<dept_name>Physics</dept_name>
+		<tot_cred>56</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>45678</ID>
+		<name>Levy</name>
+		<dept_name>Physics</dept_name>
+		<tot_cred>46</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>54321</ID>
+		<name>Williams</name>
+		<dept_name>Comp. Sci.</dept_name>
+		<tot_cred>54</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>55739</ID>
+		<name>Sanchez</name>
+		<dept_name>Music</dept_name>
+		<tot_cred>38</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>70557</ID>
+		<name>Snow</name>
+		<dept_name>Physics</dept_name>
+		<tot_cred>0</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>76543</ID>
+		<name>BSTUDENTn</name>
+		<dept_name>Comp. Sci.</dept_name>
+		<tot_cred>58</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>76653</ID>
+		<name>Aoi</name>
+		<dept_name>Elec. Eng.</dept_name>
+		<tot_cred>60</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>98765</ID>
+		<name>Bourikas</name>
+		<dept_name>Elec. Eng.</dept_name>
+		<tot_cred>98</tot_cred>
+	</STUDENT>
+
+	<STUDENT>
+		<ID>98988</ID>
+		<name>Tanaka</name>
+		<dept_name>Biology</dept_name>
+		<tot_cred>120</tot_cred>
+	</STUDENT>
+		<TAKES>
+		<ID>00128</ID>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<grade>A</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>00128</ID>
+		<course_id>CS-347</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<grade>A-</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>12345</ID>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<grade>C</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>12345</ID>
+		<course_id>CS-190</course_id>
+		<sec_id>2</sec_id>
+		<semester>Spring</semester>
+		<year>2009</year>
+		<grade>A</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>12345</ID>
+		<course_id>CS-315</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<grade>A</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>12345</ID>
+		<course_id>CS-347</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<grade>A</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>19991</ID>
+		<course_id>HIS-351</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<grade>B</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>23121</ID>
+		<course_id>FIN-201</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<grade>C+</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>44553</ID>
+		<course_id>PHY-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<grade>B-</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>45678</ID>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<grade>F</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>45678</ID>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<grade>B+</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>45678</ID>
+		<course_id>CS-319</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<grade>B</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>54321</ID>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<grade>A-</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>54321</ID>
+		<course_id>CS-190</course_id>
+		<sec_id>2</sec_id>
+		<semester>Spring</semester>
+		<year>2009</year>
+		<grade>B+</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>55739</ID>
+		<course_id>MU-199</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<grade>A-</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>76543</ID>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<grade>A</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>76543</ID>
+		<course_id>CS-319</course_id>
+		<sec_id>2</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<grade>A</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>76653</ID>
+		<course_id>EE-181</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2009</year>
+		<grade>C</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>98765</ID>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+		<grade>C-</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>98765</ID>
+		<course_id>CS-315</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+		<grade>B</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>98988</ID>
+		<course_id>BIO-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Summer</semester>
+		<year>2009</year>
+		<grade>A</grade>
+	</TAKES>
+
+	<TAKES>
+		<ID>98988</ID>
+		<course_id>BIO-301</course_id>
+		<sec_id>1</sec_id>
+		<semester>Summer</semester>
+		<year>2010</year>
+		<grade>NULL</grade>
+	</TAKES>
+	<TEACHES>
+		<ID>76766</ID>
+		<course_id>BIO-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Summer</semester>
+		<year>2009</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>76766</ID>
+		<course_id>BIO-301</course_id>
+		<sec_id>1</sec_id>
+		<semester>Summer</semester>
+		<year>2010</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>10101</ID>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>45565</ID>
+		<course_id>CS-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>83821</ID>
+		<course_id>CS-190</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2009</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>83821</ID>
+		<course_id>CS-190</course_id>
+		<sec_id>2</sec_id>
+		<semester>Spring</semester>
+		<year>2009</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>10101</ID>
+		<course_id>CS-315</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>45565</ID>
+		<course_id>CS-319</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>83821</ID>
+		<course_id>CS-319</course_id>
+		<sec_id>2</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>10101</ID>
+		<course_id>CS-347</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>98345</ID>
+		<course_id>EE-181</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2009</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>12121</ID>
+		<course_id>FIN-201</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>32343</ID>
+		<course_id>HIS-351</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>15151</ID>
+		<course_id>MU-199</course_id>
+		<sec_id>1</sec_id>
+		<semester>Spring</semester>
+		<year>2010</year>
+	</TEACHES>
+
+	<TEACHES>
+		<ID>22222</ID>
+		<course_id>PHY-101</course_id>
+		<sec_id>1</sec_id>
+		<semester>Fall</semester>
+		<year>2009</year>
+	</TEACHES>
+	<TIMESLOT>
+		<time_slot_id>A</time_slot_id>
+		<day>F</day>
+		<start_hr>8</start_hr>
+		<start_min>0</start_min>
+		<end_hr>8</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>A</time_slot_id>
+		<day>M</day>
+		<start_hr>8</start_hr>
+		<start_min>0</start_min>
+		<end_hr>8</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>A</time_slot_id>
+		<day>W</day>
+		<start_hr>8</start_hr>
+		<start_min>0</start_min>
+		<end_hr>8</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>B</time_slot_id>
+		<day>F</day>
+		<start_hr>9</start_hr>
+		<start_min>0</start_min>
+		<end_hr>9</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>B</time_slot_id>
+		<day>M</day>
+		<start_hr>9</start_hr>
+		<start_min>0</start_min>
+		<end_hr>9</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>B</time_slot_id>
+		<day>W</day>
+		<start_hr>9</start_hr>
+		<start_min>0</start_min>
+		<end_hr>9</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>C</time_slot_id>
+		<day>F</day>
+		<start_hr>11</start_hr>
+		<start_min>0</start_min>
+		<end_hr>11</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>C</time_slot_id>
+		<day>M</day>
+		<start_hr>11</start_hr>
+		<start_min>0</start_min>
+		<end_hr>11</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>C</time_slot_id>
+		<day>W</day>
+		<start_hr>11</start_hr>
+		<start_min>0</start_min>
+		<end_hr>11</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>D</time_slot_id>
+		<day>F</day>
+		<start_hr>13</start_hr>
+		<start_min>0</start_min>
+		<end_hr>13</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>D</time_slot_id>
+		<day>M</day>
+		<start_hr>13</start_hr>
+		<start_min>0</start_min>
+		<end_hr>13</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>D</time_slot_id>
+		<day>W</day>
+		<start_hr>13</start_hr>
+		<start_min>0</start_min>
+		<end_hr>13</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>E</time_slot_id>
+		<day>R</day>
+		<start_hr>10</start_hr>
+		<start_min>30</start_min>
+		<end_hr>11</end_hr>
+		<end_min>45</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>E</time_slot_id>
+		<day>T</day>
+		<start_hr>10</start_hr>
+		<start_min>30</start_min>
+		<end_hr>11</end_hr>
+		<end_min>45</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>F</time_slot_id>
+		<day>R</day>
+		<start_hr>14</start_hr>
+		<start_min>30</start_min>
+		<end_hr>15</end_hr>
+		<end_min>45</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>F</time_slot_id>
+		<day>T</day>
+		<start_hr>14</start_hr>
+		<start_min>30</start_min>
+		<end_hr>15</end_hr>
+		<end_min>45</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>G</time_slot_id>
+		<day>F</day>
+		<start_hr>16</start_hr>
+		<start_min>0</start_min>
+		<end_hr>16</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>G</time_slot_id>
+		<day>M</day>
+		<start_hr>16</start_hr>
+		<start_min>0</start_min>
+		<end_hr>16</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>G</time_slot_id>
+		<day>W</day>
+		<start_hr>16</start_hr>
+		<start_min>0</start_min>
+		<end_hr>16</end_hr>
+		<end_min>50</end_min>
+	</TIMESLOT>
+
+	<TIMESLOT>
+		<time_slot_id>H</time_slot_id>
+		<day>W</day>
+		<start_hr>10</start_hr>
+		<start_min>0</start_min>
+		<end_hr>12</end_hr>
+		<end_min>30</end_min>
+	</TIMESLOT>
+	<INSTRUCTOR>
+		<ID>10101</ID>
+		<name>Srinivasan</name>
+		<dept_name>Comp. Sci.</dept_name>
+		<salary>65000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>12121</ID>
+		<name>Wu</name>
+		<dept_name>Finance</dept_name>
+		<salary>90000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>15151</ID>
+		<name>Mozart</name>
+		<dept_name>Music</dept_name>
+		<salary>40000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>22222</ID>
+		<name>Einstein</name>
+		<dept_name>Physics</dept_name>
+		<salary>95000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>32343</ID>
+		<name>El Said</name>
+		<dept_name>History</dept_name>
+		<salary>60000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>33456</ID>
+		<name>Gold</name>
+		<dept_name>Physics</dept_name>
+		<salary>87000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>45565</ID>
+		<name>Katz</name>
+		<dept_name>Comp. Sci.</dept_name>
+		<salary>75000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>58583</ID>
+		<name>Califieri</name>
+		<dept_name>History</dept_name>
+		<salary>62000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>76543</ID>
+		<name>Singh</name>
+		<dept_name>Finance</dept_name>
+		<salary>80000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>76766</ID>
+		<name>Crick</name>
+		<dept_name>Biology</dept_name>
+		<salary>72000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>83821</ID>
+		<name>Brandt</name>
+		<dept_name>Comp. Sci.</dept_name>
+		<salary>92000.00</salary>
+	</INSTRUCTOR>
+
+	<INSTRUCTOR>
+		<ID>98345</ID>
+		<name>Kim</name>
+		<dept_name>Elec. Eng.</dept_name>
+		<salary>80000.00</salary>
+	</INSTRUCTOR>
+</UNIVERSITY>

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# navigating directories and files in R\n\n# get the current working directory\ngetwd()\n\n# set a new working directory\nsetwd('~/desktop')\n\n# list files in current directory (like ls in bash shell)\nlist.files()\n\n# create a folder on current working directory\ndir.create(\"ExampleDir\")\n\n# create a file in the directory\nfile.create('ExampleDir/Code.R')\n\n# paste works as concatenation\npath = paste(getwd(),\"/ExampleDir\",sep=\"\")\n\n# move to new directory\nsetwd(path)\n\n# list the files\nlist.files()\n\n### WRITING TO FILES ###\n\n# write text into the file we just created\ncat(\"Reproducible R Code\\n\",file='Code.R')\ncat(\"more text\\n\",file=\"Code.R\")\n# append text instead of over-writing file with append arg\ncat(\"even more text\\n\", file='Code.R',append=T) \n# check if file exists\nfile.exists('Code.R')\ngetwd()\n\n### RENAMING FILES ###\n# move code.r to current working directory as Codez.r cause 1337\nfile.rename(from='Code.R',to=paste(getwd(),'/Codez.R',sep=\"\"))\n\n\n",
+    "created" : 1484173525910.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2140453823",
+    "id" : "F0BC4BB7",
+    "lastKnownWriteTime" : 1484174017,
+    "last_content_update" : 1484174017777,
+    "path" : "~/Desktop/Personal/DataScience/Classes/Doing_Data_Science/R_Work/NAVIGATION.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,27 @@
+---
+title: "EXAMPLE_R_MARKDOWN"
+author: "Cory Nichols"
+date: "1/11/2017"
+output: html_document
+---
+# Introduction
+Welcome to R Markdown Mofo. Enjoy
+
+# Another Section
+  *with some italics*
+  
+  **with some bold**
+  list.
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# R Markdown Beginning Example
+
+```{r test chunk}
+setwd('~/Desktop/Personal/DataScience/Classes/Doing_Data_Science/R_Work/')
+source('LOOPS_CONTROL.R') # source R script
+
+df <- read.csv('~/desktop/data.csv')
+vec <- df$Col2
+summary(vec)
+```

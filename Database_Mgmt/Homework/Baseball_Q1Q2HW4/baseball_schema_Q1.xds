@@ -1,0 +1,9 @@
+<!DOCTYPE baseball_stats[
+	<!ELEMENT baseball_stats(player)>
+	<!ELEMENT player (team,salary,position)>
+	<!ATTLIST player
+			name ID #REQUIRED>
+	<!ELEMENT team(#PCDATA)>
+	<!ELEMENT salary(#PCDATA)>
+	<!ELEMENT position(#PCDATA)>
+]>

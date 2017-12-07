@@ -1,0 +1,84 @@
+---
+title: "CaseStudy1"
+author: "Cory Nichols"
+date: "2/28/2017"
+output: 
+  html_document:
+    keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+####Introduction
+We are investigating GDP quantities by country. 
+
+```{r importData, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(plyr)
+library(ggplot2)
+
+gdpURL <- 'https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FGDP.csv'
+eduURL <- 'https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FEDSTATS_Country.csv'
+
+gdp <- read.csv(gdpURL, skip = 3, stringsAsFactors = F)[2:191,c(1,2,4,5)] 
+# excludes lines with nulls and summary data points (192:232)
+edu <- read.csv(eduURL, stringsAsFactors = F)
+```
+
+####Data Cleaning and Setup
+
+To clean the dataset, we'll rename the columns of the gdp dataset and transform gdp quantities to numeric
+
+We will also join the gdp and education datasets on the code variable
+
+```{r clean, echo=FALSE}
+names(gdp) = c('code','rank','economy','usd')
+gdp$usd <- as.numeric(gsub(",","",gdp$usd))
+gdp$rank <- as.integer(gdp$rank)
+names(edu)[1] = "code"
+df <- plyr::join(gdp, edu, by = "code", type="inner")
+nrow(df) # matched IDs
+```
+
+####Ordering GDP
+
+In order to determine the 13th lowest GDP country in the dataset, we arrange and index the now-joined dataset:
+
+```{r test}
+df <- plyr::arrange(df, usd)
+df[13,]['Short.Name'] # country name, 13th position
+```
+
+
+####Mean GDP Ranking by Category
+
+We are specifically interested in determining the mean GDP rank position for High Income groupings. In order to investigate this datapoint, we transform rank
+
+```{r AvgRank, echo = FALSE}
+ddply(df, ~Income.Group, summarize, avgRank = mean(rank))
+```
+
+####Plotting GDP
+
+Plot GDP positions
+
+```{r plotter, echo= FALSE}
+ggplot(data=df, aes(x=df$rank, y=df$usd, color=df$Income.Group))+geom_point(position="jitter")
+```
+
+####Lower Middle Income in Quantile 1
+
+Detail here
+```{r quantiles, echo = FALSE, message=FALSE}
+#quantRank <- quantile(df$rank, c(.2, .4, .6, .8))
+#cut(df$rank, 5, labels = c(1,2,3,4,5))
+df$quantile <- cut(df$rank, 5, labels = c(1,2,3,4,5)) # why do we need quantiles here?
+top38 <- subset(df, df$rank <= 38)
+nrow(subset(top38, Income.Group == 'Lower middle income'))
+```
+
+####Conclusion
+
+This is the conclusion

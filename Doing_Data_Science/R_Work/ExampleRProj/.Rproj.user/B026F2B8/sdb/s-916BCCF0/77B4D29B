@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"ExampleRMarkdown\"\nauthor: \"Cory Nichols\"\ndate: \"1/11/2017\"\noutput: \n  html_document:\n    keep_md: true\n---\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n# Introduction\nThis R Markdown explains loops and conditionals at a very high level\n\n# Specifications\n  *this is a test italics*\n  ** a test bold **\n  \n```{r big script}\n# change WD to directory where file is located\nsetwd('/Users/patrickcorynichols/Desktop/Personal/DataScience/Classes/Doing_Data_Science/R_Work/')\nsource('LOOPS_CONTROL.R')\n```\n",
+    "created" : 1484190281944.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3542149527",
+    "id" : "77B4D29B",
+    "lastKnownWriteTime" : 1484190701,
+    "last_content_update" : 1484190701029,
+    "path" : "~/Desktop/Personal/DataScience/Classes/Doing_Data_Science/R_Work/EXAMPLE_R_MARKDOWN.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

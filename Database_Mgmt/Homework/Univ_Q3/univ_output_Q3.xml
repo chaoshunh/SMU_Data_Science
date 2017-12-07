@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<studentinstructor>
+    <student>
+        <name>Aoi</name>
+        <sid>76653</sid>
+        <department>Elec. Eng.</department>
+    </student>
+    <student>
+        <name>BSTUDENTn</name>
+        <sid>76543</sid>
+        <department>Comp. Sci.</department>
+    </student>
+    <student>
+        <name>Bourikas</name>
+        <sid>98765</sid>
+        <department>Elec. Eng.</department>
+    </student>
+    <student>
+        <name>Brandt</name>
+        <sid>19991</sid>
+        <department>History</department>
+    </student>
+    <student>
+        <name>Chavez</name>
+        <sid>23121</sid>
+        <department>Finance</department>
+    </student>
+    <student>
+        <name>Levy</name>
+        <sid>45678</sid>
+        <department>Physics</department>
+    </student>
+    <student>
+        <name>Peltier</name>
+        <sid>44553</sid>
+        <department>Physics</department>
+    </student>
+    <student>
+        <name>Sanchez</name>
+        <sid>55739</sid>
+        <department>Music</department>
+    </student>
+    <student>
+        <name>Shankar</name>
+        <sid>12345</sid>
+        <department>Comp. Sci.</department>
+    </student>
+    <student>
+        <name>Snow</name>
+        <sid>70557</sid>
+        <department>Physics</department>
+    </student>
+    <student>
+        <name>Tanaka</name>
+        <sid>98988</sid>
+        <department>Biology</department>
+    </student>
+    <student>
+        <name>Williams</name>
+        <sid>54321</sid>
+        <department>Comp. Sci.</department>
+    </student>
+    <student>
+        <name>Zhang</name>
+        <sid>00128</sid>
+        <department>Comp. Sci.</department>
+    </student>
+    <instructor>
+        <name>Brandt</name>
+        <salary>92000.00</salary>
+    </instructor>
+    <instructor>
+        <name>Kim</name>
+        <salary>80000.00</salary>
+    </instructor>
+    <instructor>
+        <name>Katz</name>
+        <salary>75000.00</salary>
+    </instructor>
+    <instructor>
+        <name>Srinivasan</name>
+        <salary>65000.00</salary>
+    </instructor>
+</studentinstructor>

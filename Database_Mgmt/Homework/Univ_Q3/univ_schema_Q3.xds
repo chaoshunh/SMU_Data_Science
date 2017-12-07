@@ -1,0 +1,33 @@
+<!DOCTYPE university[
+	<!ELEMENT university((department|course|instructor|teaches|takes|section|classroom|prereq|advisor|timeslot)+)>
+	<!ELEMENT department(dept_name,building,budget)>
+	<!ELEMENT course(course_id,title,dept_name,credits)>
+	<!ELEMENT instructor(IID,name,dept_name,salary)>
+	<!ELEMENT teaches(IID,course_ID)>
+	<!ELEMENT takes(SID,course_ID,sec_id,semester,year,grade)>
+	<!ELEMENT section(course_ID,sec_id,semester,year,building,room_number,time_slot_id)>
+	<!ELEMENT classroom(building,room_number,capacity)>
+	<!ELEMENT prereq(course_ID,prereq_ID)>
+	<!ELEMENT timeslot(time_slot_id,day,start_hr,start_min,end_hr,end_min)>
+	<!ELEMENT advisor(sid,iid)>
+	<!ELEMENT dept_name(#PCDATA)>
+	<!ELEMENT building(#PCDATA)>
+	<!ELEMENT budget(#PCDATA)>
+	<!ELEMENT course_id(#PCDATA)>
+	<!ELEMENT title(#PCDATA)>
+	<!ELEMENT credits(#PCDATA)>
+	<!ELEMENT IID(#PCDATA)>
+	<!ELEMENT SID(#PCDATA>
+	<!ELEMENT name(#PCDATA)>
+	<!ELEMENT salary(#PCDATA)>
+	<!ELEMENT semester(#PCDATA)>
+	<!ELEMENT prereq_ID(#PCDATA)>
+	<!ELEMENT room_number(#PCDATA)>
+	<!ELEMENT time_slot_id(#PCDATA)>
+	<!ELEMENT start_hr(#PCDATA)>
+	<!ELEMENT start_min(#PCDATA)>
+	<!ELEMENT end_hr(#PCDATA)>
+	<!ELEMENT end_min(#PCDATA)>
+	<!ELEMENT time_slot_id(#PCDATA)>
+	<!ELEMENT day(#PCDATA)>
+]

@@ -1,0 +1,261 @@
+Breed,Size
+Akita,Giant
+Anatolian Sheepdog,Giant
+Bernese Mountain Dog,Giant
+Bloodhound,Giant
+Borzoi,Giant
+Bullmastiff,Giant
+Great Dane,Giant
+Great Pyrenees,Giant
+Great Swiss Mountain Dog,Giant
+Irish Wolfhound,Giant
+Kuvasz,Giant
+Mastiff,Giant
+Neopolitan Mastiff,Giant
+Newfoundland,Giant
+Otter Hound,Giant
+Rottweiler,Giant
+Saint Bernard,Giant
+Afghan Hound,Large
+Alaskan Malamute,Large
+American Foxhound,Large
+Beauceron,Large
+Belgian Malinois,Large
+Belgian Sheepdog,Large
+Belgian Tervuren,Large
+Black And Tan Coonhound ,Large
+Black Russian Terrier,Large
+Bouvier Des Flandres,Large
+Boxer,Large
+Briard,Large
+Chesapeake Bay Retriever,Large
+Clumber Spaniel,Large
+Collie (Rough) & (Smooth),Large
+Curly Coated Retriever,Large
+Doberman Pinscher,Large
+English Foxhound,Large
+English Setter,Large
+German Shepherd Dog,Large
+German Shorthaired Pointer,Large
+German Wirehaired Pointer,Large
+Giant Schnauzer,Large
+Golden Retriever,Large
+Gordon Setter,Large
+Greyhound,Large
+Irish Setter,Large
+Komondor,Large
+Labrador Retriever,Large
+Old English Sheepdog (Bobtail),Large
+Poodle Standard,Large
+Rhodesian Ridgeback,Large
+Scottish Deerhound,Large
+Spinone Italiano,Large
+Tibetan Mastiff,Large
+Weimaraner,Large
+Airdale Terrier,Medium
+American Staffordshire Terrier,Medium
+American Water Spaniel,Medium
+Australian Cattle Dog,Medium
+Australian Shepherd,Medium
+Basset Hound,Medium
+Bearded Collie,Medium
+Border Collie,Medium
+Brittany,Medium
+Bull Dog,Medium
+Bull Terrier,Medium
+Canaan Dog,Medium
+Chinese Shar Pei,Medium
+Chow Chow,Medium
+Cocker Spaniel-American,Medium
+Cocker Spaniel-English,Medium
+Dalmatian,Medium
+English Springer Spaniel,Medium
+Field Spaniel,Medium
+Flat Coated Retriever,Medium
+Finnish Spitz,Medium
+Harrier,Medium
+Ibizan Hound,Medium
+Irish Terrier,Medium
+Irish Water Spaniel,Medium
+Keeshond,Medium
+Kerry Blue Terrier,Medium
+Norwegian Elkhound,Medium
+Nova Scotia Duck Tolling Retriever,Medium
+Petit Basset Griffon Vendeen,Medium
+Pharaoh Hound,Medium
+Plott Hound,Medium
+Pointer,Medium
+Polish Lowland Sheepdog,Medium
+Portuguese Water Dog,Medium
+Redbone Coonhound,Medium
+Saluki,Medium
+Samoyed,Medium
+Siberian Husky,Medium
+Soft-Coated Wheaten Terrier,Medium
+Staffordshire Bull Terrier,Medium
+Standard Schnauzer,Medium
+Sussex Spaniel,Medium
+Vizsla,Medium
+Welsh Springer Spaniel,Medium
+Wirehaired Pointing Griffon,Medium
+American Eskimo,Small
+Australian Terrier,Small
+Basenji,Small
+Beagle,Small
+Bedlington Terrier,Small
+Bichon Frise,Small
+Border Terrier,Small
+Boston Terrier,Small
+Brussels Griffon,Small
+Cairn Terrier,Small
+Cardigan Welsh Corgi,Small
+Cavalier King Charles Spaniel,Small
+Coton de Tulear,Small
+Dachshund,Small
+Dandie Dinmont Terrier,Small
+English Small Spaniel,Small
+Fox Terrier – Smooth,Small
+Fox Terrier – Wirehair,Small
+French Bulldog,Small
+German Pinscher,Small
+Glen Imaal Terrier,Small
+Lakeland Terrier,Small
+Manchester Terrier (Standard),Small
+Poodle Miniature,Small
+Pug,Small
+Puli,Small
+Schipperke,Small
+Scottish Terrier,Small
+Sealyham Terrier,Small
+Shetland Sheepdog (Sheltie),Small
+Shiba Inu,Small
+Shih Tzu,Small
+Silky Terrier,Small
+Skye Terrier,Small
+Tibetan Spaniel,Small
+Tibetan Terrier,Small
+Welsh Terrier,Small
+West Highland White Terrier,Small
+Whippet,Small
+Affenpinscher,Small
+Chihuahua,Small
+Chinese Crested,Small
+Italian Greyhound,Small
+Japanese Chin,Small
+Maltese,Small
+Manchester Terrier (Small),Small
+Papillon,Small
+Pomeranian,Small
+Poodle Small,Small
+Small Fox Terrier,Small
+Yorkshire Terrier,Small
+Domestic Shorthair, Small
+Pit Bull, Large
+Lhasa Apso, Small
+Shetland Sheepdog, Medium
+Miniature Schnauzer, Small
+Flat Coat Retriever, Large
+Queensland Heeler, Medium
+German Shepherd, Large
+Chihuahua Shorthair, Small
+Jack Russell Terrier, Small
+Cocker Spaniel, Small
+Rat Terrier, Small
+Staffordshire, Medium
+Old English Bulldog, Medium
+American Pit Bull, Medium
+American Pit Bull Terrier, Medium
+Dachshund Longhair, Small
+Chihuahua Longhair, Small
+Black Mouth Cur, Large
+Carolina Dog, Medium
+Miniature Poodle, Small
+Smooth Fox Terrier, Small
+Miniature Pinscher, Small
+Havanese, Small
+Cavalier Span, Small
+Cavalier Spaniel, Small
+Standard Poodle, Medium
+Soft Coated Wheaten Terrier, Medium
+Doberman Pinsch, Large
+Doberman Pinscher, Large
+Australian Kelpie, Medium
+Pembroke Welsh Corgi, Small
+Dachshund Shorthair, Small
+Norwich Terrier, Small
+Dachshund Wirehair, Small
+Rhod Ridgeback, Large
+Anatol Shepherd, Giant
+Norfolk Terrier, Small
+Treeing Walker Coonhound, Medium
+English Bulldog, Medium
+Dogo Argentino, Large
+Catahoula, Medium
+West Highland, Small
+Manchester Terrier, Small
+Collie Smooth, Medium
+American Bulldog, Large
+Dogue De Bordeaux, Giant
+German Shorthair Pointer, Medium
+Toy Poodle, Small
+English Pointer, Medium
+English Coonhound, Medium
+English Cocker Spaniel, Small
+Bulldog, Medium
+Blue Lacy, Medium
+Pekingese, Small
+Bruss Griffon, Small
+Redbone Hound, Medium
+Toy Fox Terrier, Small
+St. Bernard Rough Coat, Giant
+St. Bernard, Giant
+Neapolitan Mastiff, Giant
+Parson Russell Terrier, Small
+Dutch Shepherd, Large
+Feist, Small
+Swiss Hound, Small
+Alaskan Husky, Medium
+Podengo Pequeno, Small
+Presa Canario, Giant
+Greater Swiss Mountain Dog, Giant
+Collie Rough, Medium
+Cane Corso, Large
+Wire Hair Fox Terrier, Small
+Chinese Sharpei, Medium
+Black, Medium
+Boykin Span, Small
+Bluetick Hound, Medium
+Cardigan Welsh Corg, Small
+Bedlington Terr, Small
+Pembroke Welsh Corg, Small
+Leonberger, Giant
+Chinese Sharpe, Medium
+American Pit Bull Terrier, Medium
+Spanish Mastiff, Giant
+English Shepherd, Medium
+Chesa Bay Retr, Medium
+Treeing Cur, Medium
+Patterdale Terr, Small
+Bull Terrier Miniature, Small
+Boerboel, Giant
+Bull Terrier Miniature, Small
+Glen Of Imaal, Small
+Picardy Sheepdog, Large
+Pbgv, Small
+Airedale Terrier, Medium
+Entlebucher, Medium
+Hovawart, Large 
+Jindo, Medium
+Landseer, Giant
+Lowchen, Small
+Mexican Hairless, Small
+Old English Sheepdog, Large
+Otterhound, Large
+Port Water Dog, Medium
+Saluk, Medium
+Schnauzer Giant, Giant
+Sealyham Terr, Small
+St. Bernard Smooth Coat, Giant
+Swedish Vallhund, Small
+Treeing Tennesse Brindle, Medium
+Unknown, Medium

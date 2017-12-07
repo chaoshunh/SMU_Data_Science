@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "## LOOPS IN R\n\n# syntax - much like Java\n# for (i in 1:100){\n#   do some work here\n#   }\n\nn <- 20\nnsim <- 1000\n# create a fixed length vector of a length nsim\n# numeric creates a numeunique(c(.3, .4 - .1, .5 - .2, .6 - .3, .7 - .4))ric vector of zeroes, we can fill these slots\nlotsa_medians <- numeric(nsim)\n\nfor (i in 1:nsim){\n  x <- rnorm(n) # create 20 normal values based on n above\n  lotsa_medians[i] <- median(x) # append median value to numeric vector lotsa_medians\n  }\n\nsummary(lotsa_medians)\nhist(lotsa_medians)\nabline(v=median(lotsa_medians), col='red', lwd=3)\nmean(lotsa_medians)\nlength(lotsa_medians)\n\n\nv <- c(1,2,3)\nif(length(v) > 2)\n  {print('Yes')} else\n  {print('No')}\n\n\n",
+    "created" : 1484173270712.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "55063107",
+    "id" : "E0FF6B49",
+    "lastKnownWriteTime" : 1484185896,
+    "last_content_update" : 1484185896393,
+    "path" : "~/Desktop/Personal/DataScience/Classes/Doing_Data_Science/R_Work/LOOPS_CONTROL.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

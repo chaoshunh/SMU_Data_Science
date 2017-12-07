@@ -1,0 +1,67 @@
+// java interfaces
+// what is a java interface? to define the behavior
+// interface implements the behavior, automobile, drive, apply brakes
+// how it will do it? each class will implement it differently
+// compared to pure abstract class?
+
+
+abstract class Mammal
+{
+}
+
+abstract class Insect
+{
+}
+
+interface Flyable
+{
+}
+
+interface Predatory
+{
+}
+
+// Bat not related insect
+class Bat extends Mammal implements Flyable, Predatory
+{
+}
+
+//Dragonfly not related to mammal
+class Dragonfly extends Insect implements Flyable
+{
+}
+
+// but they both fly!!
+public class Zoo
+{
+
+  Flyable[] critters;  
+
+  public Zoo()
+  {
+   System.out.println("In Zoo");
+  }
+
+  Public static void main (String[] args)
+  {
+  	new Zoo();
+  }
+}
+
+
+// what's the difference between abstract and implement?
+// both satisfy the same rules - extends or implements MUST implement the drive method
+// interface are only methods, no constructors or fields
+// why would we build both? -- multiple inheritance
+// C++ includes multiple inheritance
+// Volvo extends car and extends automobile
+// multiple inheritance can become a mess fast, dependencies chaining, etc.
+// diamond problem, java developers decided multiple inheritance is a bad thing
+// Java interface is a way to hack into the system for multiple inheritance
+// Volvo extends vehicle and implements a drivable
+// interfaces typically deal with event behavior, more adjective
+// classes are more nouns, methods are verbs, interfaces tend to be adjectives or adverbs
+// interfaces are descriptors
+// lineages: mammal, flying, primate   insect, flying, grasshopper, etc.
+// flying behavior crosses lineages
+// interfaces can extend interfaces, classes can implement an unlimited number of interfaces

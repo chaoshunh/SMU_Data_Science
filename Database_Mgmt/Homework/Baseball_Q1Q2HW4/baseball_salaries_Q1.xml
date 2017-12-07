@@ -1,0 +1,1913 @@
+<?xml version="1.0"?>
+<baseball_stats>
+    <player name="Acevedo Juan">
+        <team>New York Yankees</team>
+        <salary>900000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Anderson Jason">
+        <team>New York Yankees</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Clemens Roger">
+        <team>New York Yankees</team>
+        <salary>10100000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Contreras Jose">
+        <team>New York Yankees</team>
+        <salary>5500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Flaherty John">
+        <team>New York Yankees</team>
+        <salary>750000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Giambi Jason">
+        <team>New York Yankees</team>
+        <salary>11428571.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Hammond Chris">
+        <team>New York Yankees</team>
+        <salary>2200000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Hitchcock Sterling">
+        <team>New York Yankees</team>
+        <salary>6000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Jeter Derek">
+        <team>New York Yankees</team>
+        <salary>15600000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Johnson Nick">
+        <team>New York Yankees</team>
+        <salary>364100.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Karsay Steve">
+        <team>New York Yankees</team>
+        <salary>5000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Latham Chris">
+        <team>New York Yankees</team>
+        <salary>400000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Liever Jon">
+        <team>New York Yankees</team>
+        <salary>550000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Matsui Hideki">
+        <team>New York Yankees</team>
+        <salary>6000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Mondesi Raul">
+        <team>New York Yankees</team>
+        <salary>13000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Mussina Mike">
+        <team>New York Yankees</team>
+        <salary>12000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Osuna Antonio">
+        <team>New York Yankees</team>
+        <salary>2400000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Pettitte Andy">
+        <team>New York Yankees</team>
+        <salary>11500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Posada Jorge">
+        <team>New York Yankees</team>
+        <salary>8000000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Rivera Mariano">
+        <team>New York Yankees</team>
+        <salary>10500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Soriano Alfonso">
+        <team>New York Yankees</team>
+        <salary>800000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Trammell Bubba">
+        <team>New York Yankees</team>
+        <salary>2500000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Ventura Robin">
+        <team>New York Yankees</team>
+        <salary>5000000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Weaver Jeff">
+        <team>New York Yankees</team>
+        <salary>4150000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Wells David">
+        <team>New York Yankees</team>
+        <salary>3250000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Williams Bernie">
+        <team>New York Yankees</team>
+        <salary>12357143.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Wilson Enrique">
+        <team>New York Yankees</team>
+        <salary>700000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Zeile Todd">
+        <team>New York Yankees</team>
+        <salary>1500000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Anderson Garret">
+        <team>Anaheim Angels</team>
+        <salary>5350000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Appier Kevin">
+        <team>Anaheim Angels</team>
+        <salary>11500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Callaway Mickey">
+        <team>Anaheim Angels</team>
+        <salary>302500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Donnelly Brendan">
+        <team>Anaheim Angels</team>
+        <salary>325000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Eckstein David">
+        <team>Anaheim Angels</team>
+        <salary>425000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Erstad Darin">
+        <team>Anaheim Angels</team>
+        <salary>7250000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Fullmer Brad">
+        <team>Anaheim Angels</team>
+        <salary>1000000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Gil Benji">
+        <team>Anaheim Angels</team>
+        <salary>725000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Glaus Troy">
+        <team>Anaheim Angels</team>
+        <salary>7250000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Kennedy Adam">
+        <team>Anaheim Angels</team>
+        <salary>2270000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Lackey John">
+        <team>Anaheim Angels</team>
+        <salary>315000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Molina Benjie">
+        <team>Anaheim Angels</team>
+        <salary>1425000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Molina Jose">
+        <team>Anaheim Angels</team>
+        <salary>320000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Ortiz Ramon">
+        <team>Anaheim Angels</team>
+        <salary>2266667.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Owens Eric">
+        <team>Anaheim Angels</team>
+        <salary>925000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Percival Troy">
+        <team>Anaheim Angels</team>
+        <salary>7833333.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Ramirez Julio">
+        <team>Anaheim Angels</team>
+        <salary>300000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Rodriquez Francisco">
+        <team>Anaheim Angels</team>
+        <salary>312500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Salmon Tim">
+        <team>Anaheim Angels</team>
+        <salary>9900000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Schoeneweis Scott">
+        <team>Anaheim Angels</team>
+        <salary>1425000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Sele Aaron">
+        <team>Anaheim Angels</team>
+        <salary>8166667.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Shields Scot">
+        <team>Anaheim Angels</team>
+        <salary>305000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Spiezio Scott">
+        <team>Anaheim Angels</team>
+        <salary>4250000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Washburn Jarrod">
+        <team>Anaheim Angels</team>
+        <salary>3875000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Weber Ben">
+        <team>Anaheim Angels</team>
+        <salary>375000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Wise Matt">
+        <team>Anaheim Angels</team>
+        <salary>302500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Wooten Shawn">
+        <team>Anaheim Angels</team>
+        <salary>337500.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Burkett John">
+        <team>Boston Red Sox</team>
+        <salary>5500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Damon Johnny">
+        <team>Boston Red Sox</team>
+        <salary>7500000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Embree Alan">
+        <team>Boston Red Sox</team>
+        <salary>3000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Fossum Casey">
+        <team>Boston Red Sox</team>
+        <salary>324500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Fox Chad">
+        <team>Boston Red Sox</team>
+        <salary>500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Garciaparra Nomar">
+        <team>Boston Red Sox</team>
+        <salary>11000000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Giambi Jeremy">
+        <team>Boston Red Sox</team>
+        <salary>2000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Gonzalez Dicky">
+        <team>Boston Red Sox</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Hillenbrand Shea">
+        <team>Boston Red Sox</team>
+        <salary>407500.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Howry Bobby">
+        <team>Boston Red Sox</team>
+        <salary>1700000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Jackson Damian">
+        <team>Boston Red Sox</team>
+        <salary>625000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Lowe Derek">
+        <team>Boston Red Sox</team>
+        <salary>3625000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Lyon Brandon">
+        <team>Boston Red Sox</team>
+        <salary>309500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Martinez Pedro">
+        <team>Boston Red Sox</team>
+        <salary>15500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Mendoza Ramiro">
+        <team>Boston Red Sox</team>
+        <salary>2900000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Millar Kevin">
+        <team>Boston Red Sox</team>
+        <salary>2000000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Mirabelli Doug">
+        <team>Boston Red Sox</team>
+        <salary>805000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Mueller Bill">
+        <team>Boston Red Sox</team>
+        <salary>2100000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Nixon Trot">
+        <team>Boston Red Sox</team>
+        <salary>4000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Ortiz David">
+        <team>Boston Red Sox</team>
+        <salary>1250000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Person Robert">
+        <team>Boston Red Sox</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Ramirez Manny">
+        <team>Boston Red Sox</team>
+        <salary>20000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Timlin Mike">
+        <team>Boston Red Sox</team>
+        <salary>1850000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Varitek Jason">
+        <team>Boston Red Sox</team>
+        <salary>4700000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Wakefield Tim">
+        <team>Boston Red Sox</team>
+        <salary>4000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Walker Todd">
+        <team>Boston Red Sox</team>
+        <salary>3450000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="White Matt">
+        <team>Boston Red Sox</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Anderson Brian">
+        <team>Cleveland Indians</team>
+        <salary>1500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Baez Danys">
+        <team>Cleveland Indians</team>
+        <salary>5125000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Bard Josh">
+        <team>Cleveland Indians</team>
+        <salary>302100.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Bere Jason">
+        <team>Cleveland Indians</team>
+        <salary>1000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Blake Casey">
+        <team>Cleveland Indians</team>
+        <salary>330000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Bradley Milton">
+        <team>Cleveland Indians</team>
+        <salary>314300.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Broussard Benjamin">
+        <team>Cleveland Indians</team>
+        <salary>303000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Burks Ellis">
+        <team>Cleveland Indians</team>
+        <salary>7166667.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Davis Jason">
+        <team>Cleveland Indians</team>
+        <salary>301100.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Garcia Karim">
+        <team>Cleveland Indians</team>
+        <salary>900000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Gutierrez Ricky">
+        <team>Cleveland Indians</team>
+        <salary>3916667.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Hafner Travis">
+        <team>Cleveland Indians</team>
+        <salary>302200.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Laker Tim">
+        <team>Cleveland Indians</team>
+        <salary>400000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Lawton Matt">
+        <team>Cleveland Indians</team>
+        <salary>6750000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Lee Cliff">
+        <team>Cleveland Indians</team>
+        <salary>300900.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="McDonald John">
+        <team>Cleveland Indians</team>
+        <salary>314400.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Mulholland Terry">
+        <team>Cleveland Indians</team>
+        <salary>500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Myette Aaron">
+        <team>Cleveland Indians</team>
+        <salary>307500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Phillips Brandon">
+        <team>Cleveland Indians</team>
+        <salary>300900.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Riske David">
+        <team>Cleveland Indians</team>
+        <salary>314000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Rodriguez Ricardo">
+        <team>Cleveland Indians</team>
+        <salary>302400.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Sabathia CC">
+        <team>Cleveland Indians</team>
+        <salary>1100000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Sadler Carl">
+        <team>Cleveland Indians</team>
+        <salary>303200.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Santiago Jose">
+        <team>Cleveland Indians</team>
+        <salary>600000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Selby Bill">
+        <team>Cleveland Indians</team>
+        <salary>325000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Spencer Shane">
+        <team>Cleveland Indians</team>
+        <salary>600000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Traber Billy">
+        <team>Cleveland Indians</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Vizquel Omar">
+        <team>Cleveland Indians</team>
+        <salary>5500000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Westbrook Jake">
+        <team>Cleveland Indians</team>
+        <salary>305500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Wickman Bob">
+        <team>Cleveland Indians</team>
+        <salary>6000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Wohlers Mark">
+        <team>Cleveland Indians</team>
+        <salary>2600000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Berg Dave">
+        <team>Toronto Blue Jays</team>
+        <salary>700000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Bordick Mike">
+        <team>Toronto Blue Jays</team>
+        <salary>1000000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Catalanotto Frank">
+        <team>Toronto Blue Jays</team>
+        <salary>2200000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Creek Doug">
+        <team>Toronto Blue Jays</team>
+        <salary>700000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Delgado Carlos">
+        <team>Toronto Blue Jays</team>
+        <salary>18700000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Escobar Kelvim">
+        <team>Toronto Blue Jays</team>
+        <salary>3900000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="File Bob">
+        <team>Toronto Blue Jays</team>
+        <salary>310000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Halladay Roy">
+        <team>Toronto Blue Jays</team>
+        <salary>3825000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Hendrickson Mark">
+        <team>Toronto Blue Jays</team>
+        <salary>302000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Hinske Eric">
+        <team>Toronto Blue Jays</team>
+        <salary>600000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Huckaby Ken">
+        <team>Toronto Blue Jays</team>
+        <salary>313000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Hudson Orlando">
+        <team>Toronto Blue Jays</team>
+        <salary>313000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Lidle Cory">
+        <team>Toronto Blue Jays</team>
+        <salary>5350000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Linton Doug">
+        <team>Toronto Blue Jays</team>
+        <salary>350000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Lopez Aquilino">
+        <team>Toronto Blue Jays</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Miller Trever">
+        <team>Toronto Blue Jays</team>
+        <salary>305000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Myers Greg">
+        <team>Toronto Blue Jays</team>
+        <salary>800000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Phelps Josh">
+        <team>Toronto Blue Jays</team>
+        <salary>320000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Politte Cliff">
+        <team>Toronto Blue Jays</team>
+        <salary>845000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Stewart Shannon">
+        <team>Toronto Blue Jays</team>
+        <salary>6200000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Sturtze Tanyon">
+        <team>Toronto Blue Jays</team>
+        <salary>1000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Tam Jeff">
+        <team>Toronto Blue Jays</team>
+        <salary>600000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Walker Pete">
+        <team>Toronto Blue Jays</team>
+        <salary>425000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Wells Vernon">
+        <team>Toronto Blue Jays</team>
+        <salary>520000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Werth Jayson">
+        <team>Toronto Blue Jays</team>
+        <salary>300000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Wilson Tom">
+        <team>Toronto Blue Jays</team>
+        <salary>316000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Woodward Chris">
+        <team>Toronto Blue Jays</team>
+        <salary>775000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Batista Tony">
+        <team>Baltimore Orioles</team>
+        <salary>6400000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Bauer Rick">
+        <team>Baltimore Orioles</team>
+        <salary>325000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Bedard Erik">
+        <team>Baltimore Orioles</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Belle Albert">
+        <team>Baltimore Orioles</team>
+        <salary>13000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Conine Jeff">
+        <team>Baltimore Orioles</team>
+        <salary>4250000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Cordova Marty">
+        <team>Baltimore Orioles</team>
+        <salary>3100000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Cruz Deivi">
+        <team>Baltimore Orioles</team>
+        <salary>1000000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Daal Omar">
+        <team>Baltimore Orioles</team>
+        <salary>3000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Erickson Scott">
+        <team>Baltimore Orioles</team>
+        <salary>7030000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Fordyce Brook">
+        <team>Baltimore Orioles</team>
+        <salary>3500000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Gibbons Jay">
+        <team>Baltimore Orioles</team>
+        <salary>375000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Gil Geronimo">
+        <team>Baltimore Orioles</team>
+        <salary>330000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Groom Buddy">
+        <team>Baltimore Orioles</team>
+        <salary>3000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Hairston Jerry">
+        <team>Baltimore Orioles</team>
+        <salary>1550000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Helling Rick">
+        <team>Baltimore Orioles</team>
+        <salary>1000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Hentgen Pat">
+        <team>Baltimore Orioles</team>
+        <salary>1200000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Johson Jason">
+        <team>Baltimore Orioles</team>
+        <salary>2900000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Julio Jorge">
+        <team>Baltimore Orioles</team>
+        <salary>350000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Leon Jose">
+        <team>Baltimore Orioles</team>
+        <salary>305000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Ligtenberg Kerry">
+        <team>Baltimore Orioles</team>
+        <salary>1200000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Lopez Rodrigo">
+        <team>Baltimore Orioles</team>
+        <salary>325000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Matthews Gary">
+        <team>Baltimore Orioles</team>
+        <salary>900000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Mora Melvin">
+        <team>Baltimore Orioles</team>
+        <salary>1725000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Morban Jose">
+        <team>Baltimore Orioles</team>
+        <salary>300000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Ponson Sidney">
+        <team>Baltimore Orioles</team>
+        <salary>4250000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Roberts Willis">
+        <team>Baltimore Orioles</team>
+        <salary>3500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Ryan BJ">
+        <team>Baltimore Orioles</team>
+        <salary>762500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Segui David">
+        <team>Baltimore Orioles</team>
+        <salary>7000000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Surhoff BJ">
+        <team>Baltimore Orioles</team>
+        <salary>1000000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Abernathy Brent">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Anderson Marlon">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>600000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Baldelli Rocco">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Bierbrodt Nick">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Carter Lance">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Colome Jesus">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Crawford Carl">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Grieve Ben">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>5500000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Hall Toby">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Harper Travis">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>325000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Huff Aubrey">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>325000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Kennedy Joe">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Lee Travis">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>500000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Martin Al">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="McClung Seth">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Ordonez Rey">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>6500000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Parque Jim">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>400000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Parris Steve">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>400000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Rolls Damian">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Seay Bobby">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Shumpert Terry">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Sosa Jorge">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Valentin Javier">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Venafro Mike">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Zambrano Victor">
+        <team>Tampa Bay Devil Rays</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Affeldt Jeremy">
+        <team>Kansas City Royals</team>
+        <salary>313000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Asencio Miguel">
+        <team>Kansas City Royals</team>
+        <salary>314000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Beltran Carlos">
+        <team>Kansas City Royals</team>
+        <salary>6000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Berger Grandon">
+        <team>Kansas City Royals</team>
+        <salary>304000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Berroa Angel">
+        <team>Kansas City Royals</team>
+        <salary>302000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Brown Dermal">
+        <team>Kansas City Royals</team>
+        <salary>309500.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Bukvich Ryan">
+        <team>Kansas City Royals</team>
+        <salary>304500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Carrasco DJ">
+        <team>Kansas City Royals</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Difelice Mike">
+        <team>Kansas City Royals</team>
+        <salary>625000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Febles Carlos">
+        <team>Kansas City Royals</team>
+        <salary>775000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="George Chris">
+        <team>Kansas City Royals</team>
+        <salary>303500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Grimsley Jason">
+        <team>Kansas City Royals</team>
+        <salary>2000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Harvey Ken">
+        <team>Kansas City Royals</team>
+        <salary>300000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Hernandez Runelvys">
+        <team>Kansas City Royals</team>
+        <salary>305500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Ibanez Raul">
+        <team>Kansas City Royals</team>
+        <salary>3000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Johnson Rontrez">
+        <team>Kansas City Royals</team>
+        <salary>300000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Lopez Albie">
+        <team>Kansas City Royals</team>
+        <salary>1500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Lopez Mendy">
+        <team>Kansas City Royals</team>
+        <salary>300000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="MacDougal Mike">
+        <team>Kansas City Royals</team>
+        <salary>301000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="May Darrell">
+        <team>Kansas City Royals</team>
+        <salary>450000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Mayne Brent">
+        <team>Kansas City Royals</team>
+        <salary>2750000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Randa Joe">
+        <team>Kansas City Royals</team>
+        <salary>4500000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Relaford Desi">
+        <team>Kansas City Royals</team>
+        <salary>900000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Sweeney Mike">
+        <team>Kansas City Royals</team>
+        <salary>11000000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Tucker Michael">
+        <team>Kansas City Royals</team>
+        <salary>2750000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Wilson Kris">
+        <team>Kansas City Royals</team>
+        <salary>311000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Cuddyer Michael">
+        <team>Minnesota Twins</team>
+        <salary>302500.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Fetters Mike">
+        <team>Minnesota Twins</team>
+        <salary>500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Fiore Tony">
+        <team>Minnesota Twins</team>
+        <salary>330000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Gomez Chris">
+        <team>Minnesota Twins</team>
+        <salary>500000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Guardado Eddie">
+        <team>Minnesota Twins</team>
+        <salary>2700000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Guzman Cristian">
+        <team>Minnesota Twins</team>
+        <salary>2525000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Hawkins LaTroy">
+        <team>Minnesota Twins</team>
+        <salary>3000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Hocking Denny">
+        <team>Minnesota Twins</team>
+        <salary>1000000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Hunter Torii">
+        <team>Minnesota Twins</team>
+        <salary>4750000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Jones Jacque">
+        <team>Minnesota Twins</team>
+        <salary>2750000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Kielty Bobby">
+        <team>Minnesota Twins</team>
+        <salary>325000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Koskie Corey">
+        <team>Minnesota Twins</team>
+        <salary>3400000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Lecroy Matt">
+        <team>Minnesota Twins</team>
+        <salary>312500.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Lohse Kyle">
+        <team>Minnesota Twins</team>
+        <salary>330000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Mays Joe">
+        <team>Minnesota Twins</team>
+        <salary>4150000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Mientkiewicz Doug">
+        <team>Minnesota Twins</team>
+        <salary>1750000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Milton Eric">
+        <team>Minnesota Twins</team>
+        <salary>6000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Mohr Dustan">
+        <team>Minnesota Twins</team>
+        <salary>315000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Pierzynski AJ">
+        <team>Minnesota Twins</team>
+        <salary>365000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Prince Tom">
+        <team>Minnesota Twins</team>
+        <salary>450000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Radke Brad">
+        <team>Minnesota Twins</team>
+        <salary>8750000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Reed Rick">
+        <team>Minnesota Twins</team>
+        <salary>8000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Rivas Luis">
+        <team>Minnesota Twins</team>
+        <salary>340000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Rogers Kenny">
+        <team>Minnesota Twins</team>
+        <salary>2000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Romero JC">
+        <team>Minnesota Twins</team>
+        <salary>325000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Santana Johan">
+        <team>Minnesota Twins</team>
+        <salary>335000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Alomar Jr Sandy">
+        <team>Chicago White Sox</team>
+        <salary>700000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Buehrle Mark">
+        <team>Chicago White Sox</team>
+        <salary>445000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Colon Bartolo">
+        <team>Chicago White Sox</team>
+        <salary>8250000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Crede Joe">
+        <team>Chicago White Sox</team>
+        <salary>315000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Daubach Brian">
+        <team>Chicago White Sox</team>
+        <salary>450000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Garland Jon">
+        <team>Chicago White Sox</team>
+        <salary>375000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Glover Gary">
+        <team>Chicago White Sox</team>
+        <salary>330000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Gordon Tom">
+        <team>Chicago White Sox</team>
+        <salary>1400000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Graffanino Tony">
+        <team>Chicago White Sox</team>
+        <salary>675000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Jimenez D'angelo">
+        <team>Chicago White Sox</team>
+        <salary>345000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Koch Billy">
+        <team>Chicago White Sox</team>
+        <salary>4250000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Konerko Paul">
+        <team>Chicago White Sox</team>
+        <salary>6250000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Lee Carlos">
+        <team>Chicago White Sox</team>
+        <salary>4200000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Loaiza Esteban">
+        <team>Chicago White Sox</team>
+        <salary>500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Marte Damaso">
+        <team>Chicago White Sox</team>
+        <salary>330000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Olivo Miguel">
+        <team>Chicago White Sox</team>
+        <salary>300000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Ordonez Magglio">
+        <team>Chicago White Sox</team>
+        <salary>9000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Paul Josh">
+        <team>Chicago White Sox</team>
+        <salary>325000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Rios Armando">
+        <team>Chicago White Sox</team>
+        <salary>450000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Rowand Aaron">
+        <team>Chicago White Sox</team>
+        <salary>320000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Stewart Josh">
+        <team>Chicago White Sox</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Thomas Frank">
+        <team>Chicago White Sox</team>
+        <salary>5000000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Valentin Jose">
+        <team>Chicago White Sox</team>
+        <salary>5000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="White Ribk">
+        <team>Chicago White Sox</team>
+        <salary>600000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Wright Danny">
+        <team>Chicago White Sox</team>
+        <salary>325000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Wunsch Kelly">
+        <team>Chicago White Sox</team>
+        <salary>575000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Anderson Matt">
+        <team>Detroit Tigers</team>
+        <salary>3200000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Bernero Adam">
+        <team>Detroit Tigers</team>
+        <salary>314000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Bocachica Hiram">
+        <team>Detroit Tigers</team>
+        <salary>325000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Bonderman Jeremy">
+        <team>Detroit Tigers</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Cornejo Nate">
+        <team>Detroit Tigers</team>
+        <salary>303000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="German Franklyn">
+        <team>Detroit Tigers</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Halter Shane">
+        <team>Detroit Tigers</team>
+        <salary>2150000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Higginson Bobby">
+        <team>Detroit Tigers</team>
+        <salary>11850000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Infante Omar">
+        <team>Detroit Tigers</team>
+        <salary>300000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Inge Brandon">
+        <team>Detroit Tigers</team>
+        <salary>315000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Kingsale Eugene">
+        <team>Detroit Tigers</team>
+        <salary>340000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Knotts Gary">
+        <team>Detroit Tigers</team>
+        <salary>305000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Ledezma Wilfredo">
+        <team>Detroit Tigers</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Maroth Mike">
+        <team>Detroit Tigers</team>
+        <salary>309000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Munson Eric">
+        <team>Detroit Tigers</team>
+        <salary>1700000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Palmer Dean">
+        <team>Detroit Tigers</team>
+        <salary>8500000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Paquette Craig">
+        <team>Detroit Tigers</team>
+        <salary>2625000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Patterson Danny">
+        <team>Detroit Tigers</team>
+        <salary>2500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Pena Carlos">
+        <team>Detroit Tigers</team>
+        <salary>310000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Roney Matt">
+        <team>Detroit Tigers</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Santiago Ramon">
+        <team>Detroit Tigers</team>
+        <salary>307000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Sparks Steve">
+        <team>Detroit Tigers</team>
+        <salary>4500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Spurling Chris">
+        <team>Detroit Tigers</team>
+        <salary>305000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Walbeck Matt">
+        <team>Detroit Tigers</team>
+        <salary>400000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Walker Jamie">
+        <team>Detroit Tigers</team>
+        <salary>360000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Young Dmitri">
+        <team>Detroit Tigers</team>
+        <salary>6750000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Bloomquist Willie">
+        <team>Seattle Mariners</team>
+        <salary>300000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Boone Bret">
+        <team>Seattle Mariners</team>
+        <salary>8000000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Borders Pat">
+        <team>Seattle Mariners</team>
+        <salary>500000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Cameron Mike">
+        <team>Seattle Mariners</team>
+        <salary>7416667.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Carrara Giovanni">
+        <team>Seattle Mariners</team>
+        <salary>400000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Cirillo Jeff">
+        <team>Seattle Mariners</team>
+        <salary>6725000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Colbrunn Greg">
+        <team>Seattle Mariners</team>
+        <salary>750000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Davis Ben">
+        <team>Seattle Mariners</team>
+        <salary>1000000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Franklin Ryan">
+        <team>Seattle Mariners</team>
+        <salary>425000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Garcia Freddy">
+        <team>Seattle Mariners</team>
+        <salary>6875000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Guillen Carlos">
+        <team>Seattle Mariners</team>
+        <salary>2500000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Hasegawa Shigetoshi">
+        <team>Seattle Mariners</team>
+        <salary>1800000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Mabry John">
+        <team>Seattle Mariners</team>
+        <salary>600000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Martinez Edgar">
+        <team>Seattle Mariners</team>
+        <salary>4000000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Mateo Julio">
+        <team>Seattle Mariners</team>
+        <salary>302500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="McLemore Mark">
+        <team>Seattle Mariners</team>
+        <salary>3150000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Meche Gil">
+        <team>Seattle Mariners</team>
+        <salary>325000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Moyer Jamie">
+        <team>Seattle Mariners</team>
+        <salary>6500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Nelson Jeff">
+        <team>Seattle Mariners</team>
+        <salary>3983333.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Olerud John">
+        <team>Seattle Mariners</team>
+        <salary>7700000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Pineiro Joel">
+        <team>Seattle Mariners</team>
+        <salary>440000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Rhodes Arthur">
+        <team>Seattle Mariners</team>
+        <salary>3500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Sasaki Kazuhiro">
+        <team>Seattle Mariners</team>
+        <salary>8000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Snelling Chris">
+        <team>Seattle Mariners</team>
+        <salary>300000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Suzuki Ichiro">
+        <team>Seattle Mariners</team>
+        <salary>4666667.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Wilson Dan">
+        <team>Seattle Mariners</team>
+        <salary>3500000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Winn Randy">
+        <team>Seattle Mariners</team>
+        <salary>3300000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Bowie Micah">
+        <team>Oakland Athletics</team>
+        <salary>304000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Bradford Chad">
+        <team>Oakland Athletics</team>
+        <salary>331000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Byrnes Eric">
+        <team>Oakland Athletics</team>
+        <salary>300000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Chavez Eric">
+        <team>Oakland Athletics</team>
+        <salary>3675000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Durazo Erubiel">
+        <team>Oakland Athletics</team>
+        <salary>1065000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Dye Jermaine">
+        <team>Oakland Athletics</team>
+        <salary>11666667.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Ellis Mark">
+        <team>Oakland Athletics</team>
+        <salary>307500.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Fikac Jeremy">
+        <team>Oakland Athletics</team>
+        <salary>316000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Foulke Keith">
+        <team>Oakland Athletics</team>
+        <salary>6000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Gant Ron">
+        <team>Oakland Athletics</team>
+        <salary>350000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Halama John">
+        <team>Oakland Athletics</team>
+        <salary>750000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Hatteberg Scott">
+        <team>Oakland Athletics</team>
+        <salary>1750000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Hernandez Ramon">
+        <team>Oakland Athletics</team>
+        <salary>1887500.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Hudson Tim">
+        <team>Oakland Athletics</team>
+        <salary>2700000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Johnson Mark L">
+        <team>Oakland Athletics</team>
+        <salary>500000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Lilly Ted">
+        <team>Oakland Athletics</team>
+        <salary>335000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Long Terrence">
+        <team>Oakland Athletics</team>
+        <salary>2175000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Mecir Jim">
+        <team>Oakland Athletics</team>
+        <salary>3216667.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Menechino Frank">
+        <team>Oakland Athletics</team>
+        <salary>334500.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Mulder Mark">
+        <team>Oakland Athletics</team>
+        <salary>2650000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Neu Mike">
+        <team>Oakland Athletics</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Piatt Adam">
+        <team>Oakland Athletics</team>
+        <salary>322000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Rincon Ricardo">
+        <team>Oakland Athletics</team>
+        <salary>1700000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Singleton Chris">
+        <team>Oakland Athletics</team>
+        <salary>1200000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Tejada Miguel">
+        <team>Oakland Athletics</team>
+        <salary>5125000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Zito Barry">
+        <team>Oakland Athletics</team>
+        <salary>1000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Blalock Hank">
+        <team>Texas Rangers</team>
+        <salary>302500.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Clark Jermaine">
+        <team>Texas Rangers</team>
+        <salary>300000.00000</salary>
+        <position>Second Baseman</position>
+    </player>
+    <player name="Cordero Francisco">
+        <team>Texas Rangers</team>
+        <salary>900000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Diaz Einar">
+        <team>Texas Rangers</team>
+        <salary>1837500.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Everett Carl">
+        <team>Texas Rangers</team>
+        <salary>9150000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Fultz Aaron">
+        <team>Texas Rangers</team>
+        <salary>600000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Garcia Reynaldo">
+        <team>Texas Rangers</team>
+        <salary>300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Glanville Doug">
+        <team>Texas Rangers</team>
+        <salary>1000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Gonzalez Juan">
+        <team>Texas Rangers</team>
+        <salary>13000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Greene Todd">
+        <team>Texas Rangers</team>
+        <salary>750000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Greer Rusty">
+        <team>Texas Rangers</team>
+        <salary>7000000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Kreuter Chad">
+        <team>Texas Rangers</team>
+        <salary>750000.00000</salary>
+        <position>Catcher</position>
+    </player>
+    <player name="Lamb Mike">
+        <team>Texas Rangers</team>
+        <salary>440000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Lewis Colby">
+        <team>Texas Rangers</team>
+        <salary>302500.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Mench Kevin">
+        <team>Texas Rangers</team>
+        <salary>327500.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Nitkowski CJ">
+        <team>Texas Rangers</team>
+        <salary>550000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Palmeiro Rafael">
+        <team>Texas Rangers</team>
+        <salary>9000000.00000</salary>
+        <position>First Baseman</position>
+    </player>
+    <player name="Park Chan Ho">
+        <team>Texas Rangers</team>
+        <salary>13000000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Perry Herbert">
+        <team>Texas Rangers</team>
+        <salary>1300000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Powell Jay">
+        <team>Texas Rangers</team>
+        <salary>3250000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Rodriguez Alex">
+        <team>Texas Rangers</team>
+        <salary>22000000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Sierra Ruben">
+        <team>Texas Rangers</team>
+        <salary>600000.00000</salary>
+        <position>Outfielder</position>
+    </player>
+    <player name="Teixeira Mark">
+        <team>Texas Rangers</team>
+        <salary>750000.00000</salary>
+        <position>Third Baseman</position>
+    </player>
+    <player name="Thomson John">
+        <team>Texas Rangers</team>
+        <salary>1300000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Urbina Ugueth">
+        <team>Texas Rangers</team>
+        <salary>4500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Valdes Ismael">
+        <team>Texas Rangers</team>
+        <salary>2500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Van Poppel Todd">
+        <team>Texas Rangers</team>
+        <salary>2500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Yan Esteban">
+        <team>Texas Rangers</team>
+        <salary>1500000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Young Mike B">
+        <team>Texas Rangers</team>
+        <salary>415000.00000</salary>
+        <position>Shortstop</position>
+    </player>
+    <player name="Zimmerman Jeff">
+        <team>Texas Rangers</team>
+        <salary>3366667.00000</salary>
+        <position>Pitcher</position>
+    </player>
+    <player name="Clemens Roger">
+        <team>New York Yankees</team>
+        <salary>10100000.00000</salary>
+        <position>Pitcher</position>
+    </player>
+</baseball_stats>

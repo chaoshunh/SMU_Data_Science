@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "## creating functions in R\n\n# functions are R's verbs to objects being nouns\n# bundle of commands\n# functions take commands, some dont however, just enclose in parentheses\n# many functions have default values identified in the help, these are\n# pre-populated\n\n# built in function round example:\nnumvec <- c(1.2, 3.2, 5.6, 1.2)\n# use a built in for standard deviation\nsd(numvec)\n# get arguments for a function\nargs(sd)\n\n# in this case we nest functions\nround(mean(numvec, na.rm = TRUE), digits=1)\n\nnumvec2 <- c(5.2, 3.7, 10.6, 2.2)\n# combine columns with c bind\nnumvecs <- cbind(numvec2, numvec)\n#combine rows with r bind\nnumvecs <- rbind(numvec2, numvec)\nargs(rbind)\n\n# probability that X is greater than 75 with a mean dataset of 85 and SD of 5\npnorm(75, 85, 5, lower.tail=FALSE)\n\n# can also use the piping function %>%\n# output of one function is set as the first argument of the next\nmean(numvec) %>% round(digits=2)\n\nlibrary(MASS)\nfit <- rlm(stackloss$stack.loss~stackloss$Air.Flow)\nplot(fit) # to see residuals, leverage plots, QQ plots for normality, etc.\n\n\n\n###### WRITING YOUR OWN FUNCTIONS ########\n# R doesnt have built in functions, functions written by someone else\n# customize R by coding own functions\n\n# typical function syntax:start with function, take args wrapped in braces, last line of function is returned\n# name <- function(args) {\n         # expressions\n         # value (can use return here)\n         # }\n\n# define a trim function to trim off values \n# that are less than x and greater than y\ntrim <- function(x, lower=0.0, upper=1.0) {\n  indices <- x >= lower & x <= upper # use logical operator &, or is |\n  x[indices]\n}\n# set x as a vector of 20 values from a random normal distribution, standard\n# normal since no args specified\nx <- rnorm(20)\n# run trim to keep vals based on logic\ntrim(x)\n\n# sample takes a random sample of values\nsumdice <- function(n=2){\n  x <- sample(1:6, n, replace=T) # sample from 1:6, of size n, with replacement (add back in #'s selected)\n  sum(x)\n}\n\nsumdice()\n\n",
+    "created" : 1484163795583.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1787563049",
+    "id" : "13B85AC2",
+    "lastKnownWriteTime" : 1484173168,
+    "last_content_update" : 1484173168588,
+    "path" : "~/Desktop/Personal/DataScience/Classes/Doing_Data_Science/R_Work/FUNCTIONS.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

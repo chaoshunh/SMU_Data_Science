@@ -1,0 +1,44 @@
+Questions for Dr. McGee
+
+
+
+Two Way ANOVA:
+2) Factorial ANOVA vs Regression - When is the best time to use either (is one better than the other?) 
+and what is the cadence? e.g. when we have a two way design do we always start with an overall model test for interaction first, accounting for lack of assumptions? Could we set up a regression model initially as well and use PROC REG to test the full non-additive model? Contrasts using regression model always more straight forward?
+
+ANOVA case of regression where everything is categorical - response is quantitative. ANOVA used with true experiment, when adjusting certain factors. Can cross terms in regression and get an equivalent setting. 
+
+Variable Selection:
+3) Any particular favored method for variable selection? LASSO, LARS? If trying to apply a prediction model, should we
+select based on cross validation? 
+
+- LASSO LARs variable selection , CV validates model with LASSO and LARs. Can use CV in SAS, PRESS statistic. Minimize PRESS. 
+
+- Always cross validate - several models can explain relationships very well, which one is easiest, best fitting that is simplest, least costly to measure, etc. 5 to 10 fold. Balance computational efficiency and bias in the model. Best unbiased model if leave one out.
+
+
+4)Bayesian posterior probabilities - application relevant to support? How to establish priors? Simply establishes best model? Accounts for uncertainty in model selection? Strength of belief? 
+
+True parameter in classical statistics, Bayesian has own distribution, twenty years ago nobody could use it. WINBUGS for Bayesian statistics. B in bugs stands for Bayesian. Posterior distributions given various priors. 
+
+5) When is it wise to use SSOM? Always? When snooping for a relationship? 
+
+SSOM is not normal - problem with this is correlation. Problem with any variable selection techniques, variance is going to be large for predictions. Judgement calls. Need d.f. to use so many variables. Centering variables if running into high VIF (anorexia data set)
+
+
+Time Series:
+1) Standard Error for Regression with time series adjustment, is it different if we filter variables? When comparing two time series data sets, only use t test with adjusted SE?
+
+
+A Little More Time Series (why not?!?!?!):
+6) What assumptions are applied for time series? How would we use it with multiple variables? For instance a data set that
+has multiple different variables including categorical? For example, Loss = Period, Billings, FRAUD RISK LEVEL
+Would we adjust for AR(1) model by using the first order correlation coefficient and transform each variable? Or only the
+time period variables? 
+
+Time series regression package in SAS, adjustment for response and explanatory variables, explanatory variables not with a response that is time correlated. Using shocks to the system , likely not a linear time series model, change points, etc. ARIMA can deal with seasonality, might be non linear. Remove seasonality, trends from response, run a regression on residuals. See some structure, data points must be independent
+
+Innovation model, shocks to system, if happens at a regular time period, can help predict the shocks. Econometrics guys may solve this. 
+
+PROC AUTOREG
+Yaffi, Robert McGee, Monnie - 
