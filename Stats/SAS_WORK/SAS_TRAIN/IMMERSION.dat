@@ -1,0 +1,60 @@
+data test;
+input Location $ Reach $ Bias Count;
+DATALINES;
+Other	Regional	0	1241
+Other	Regional	0	1211
+Other	Regional	1	500
+South	Local	0	430
+South	Local	0	493
+Other	Local	0	519
+Other	Regional	1	322
+Other	Local	1	1591
+Other	Regional	0	808
+Other	Regional	1	867
+Other	Local	0	741
+Other	Local	1	831
+South	Local	0	315
+South	Local	0	99
+South	Local	1	315
+South	Local	0	501
+South	Regional	0	133
+South	Local	0	235
+South	Local	0	211
+South	Local	0	388
+South	Local	1	513
+South	Local	0	663
+South	Local	1	639
+South	Local	0	322
+South	Regional	0	717
+South	Local	0	277
+South	Local	1	323
+South	Regional	1	332
+Other	Local	0	402
+Other	Regional	1	655
+Other	Local	1	1007
+Other	Regional	1	304
+Other	Local	1	339
+Other	Local	1	1312
+South	Local	0	218
+South	Local	0	694
+Other	Local	1	396
+Other	Regional	0	1005
+Other	Local	1	30
+Other	Local	0	632
+;
+
+PROC PRINT DATA = test;
+RUN; 
+
+PROC LOGISTIC data = test DESCENDING;
+CLASS LOCATION REACH;
+MODEL bias = location reach | count / IPLOTS INFLUENCE CL LACKFIT;
+effectplot interaction (x = location sliceby = reach) / at(location = 'South' 'Other');
+RUN;
+
+
+PROC LOGISTIC data = test DESCENDING;
+CLASS LOCATION REACH;
+MODEL bias = location / IPLOTS INFLUENCE CL LACKFIT;
+effectplot;
+RUN;
